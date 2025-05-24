@@ -14,7 +14,7 @@
   <br><br><br>
 
   <pre>
-      - Install using Tampermonkey, dm t.me/dinklefart for support
+  - Install using Tampermonkey, dm t.me/dinklefart for support
   </pre>
 
   [![](https://img.shields.io/badge/Install_with-Tampermonkey-black?logo=googlechrome)](https://www.tampermonkey.net/)
